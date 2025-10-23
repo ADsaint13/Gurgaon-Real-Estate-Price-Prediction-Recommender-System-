@@ -1,4 +1,3 @@
-# Gurgaon-Real-Estate-Price-Prediction-Recommender-System-
 # Gurgaon Real Estate Analytics: Price Prediction & Recommender System
 
 This repository documents the end-to-end data science capstone project. This project focuses on the challenging and dynamic real estate market of Gurgaon, India, intending to build a robust price prediction model and a property recommender system.
