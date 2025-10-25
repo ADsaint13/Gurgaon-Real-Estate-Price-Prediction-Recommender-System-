@@ -101,34 +101,4 @@ This crucial phase was divided into multiple parts to extract deep insights.
 * **NLP (Recommender):** `Scikit-learn` (`TfidfVectorizer`, `cosine_similarity`)
 * **Utilities:** `Jupyter Notebook`, `Pandas-Profiling`
 
-## How to Use
 
-To run this project locally, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/ADsaint13/Gurgaon-Real-Estate-Price-Prediction-Recommender-System-.git](https://github.com/ADsaint13/Gurgaon-Real-Estate-Price-Prediction-Recommender-System-.git)
-    cd Gurgaon-Real-Estate-Price-Prediction-Recommender-System-
-    ```
-
-2.  **Create a virtual environment (recommended):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-
-3.  **Install the required dependencies:**
-    *(It's recommended to create a `requirements.txt` file)*
-    ```bash
-    pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost lightgbm pandas-profiling
-    ```
-
-4.  **Launch Jupyter Notebook:**
-    ```bash
-    jupyter notebook
-    ```
-
-5.  Open the notebooks in numerical order to follow the project workflow.
-
-## Acknowledgements
-* This project is based on the capstone for the [CampusX Data Science Mentorship Program](https://campusx.in/).
